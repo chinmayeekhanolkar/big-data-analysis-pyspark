@@ -10,47 +10,56 @@ This project performs analysis on a large dataset using PySpark to demonstrate s
 
 >> Technologies Used
 
-\- Python
+- Python
 
-\- PySpark
+- PySpark
 
-\- Google Colab
+- Google Colab
 
 
 
 >> Dataset
 
-\- Research and Development Survey 2024
+- Research and Development Survey 2024
 
 
 
 >> Steps Performed
 
-1\. Data Loading using PySpark
+1. Data Loading using PySpark
 
-2\. Data Cleaning (null + duplicates removed)
+2. Data Cleaning (null + duplicates removed)
 
-3\. Data Transformation
+3. Data Transformation
 
-4\. Aggregation and grouping
+4. Aggregation and grouping
 
-5\. Visualization using matplotlib
+5. Visualization using matplotlib
 
 
 
 >> Key Insights
 
-\- Identified most frequent responses in dataset
+- Identified most frequent responses in dataset
 
-\- Found distribution patterns
+- Found distribution patterns
 
-\- Extracted grouped insights from survey data
+- Extracted grouped insights from survey data
 
 
 
 >> Scalability
 
 PySpark enables distributed computing, making it efficient for handling large datasets.
+
+>> Sample Insights
+- Most frequent category identified using groupBy
+- Data distribution visualized using bar chart
+- Cleaned dataset by removing null and duplicate values
+
+>> Future Scope
+- Can be extended to real-time big data processing
+- Can use larger datasets with Spark clusters
 
 
 
