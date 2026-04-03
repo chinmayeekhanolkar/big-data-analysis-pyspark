@@ -1,0 +1,504 @@
+Variable,Breakdown,Breakdown_category,Year,RD_Value,Status,Unit,Footnotes,Relative_Sampling_Error,New_Column
+_03_Current_and_Capital_Expenditure:_Capital_Expenditure:_Total,Sector,01_Business Sector,2023,332,R,NZ Dollars (millions),1 and 12 and 28,25.6,Sector
+_12b_Purpose_of_research:_Manufacturing,Sector,01_Business Sector,2022,560,R,NZ Dollars (millions),1 and 12 and 15 and 28,8.8,Sector
+_13_Broad_purpose_of_research:_Society,Industry,03_Services Industry Group,2023,371,R,NZ Dollars (millions),12 and 15 and 19 and 28,22.3,Industry
+_22a_Personnel_by_Occupation:_FTE:_Researcher_Employees,Published_Industry,12_Computer services,2023,5000,R,Number of employees,14 and 28,12.9,Published_Industry
+_37_Personnel_by_Qualification:_FTE:_Total,ANZSIC_1_Digit,C_Manufacturing,2022,4900,R,Number of employees,14 and 28,5.9,ANZSIC_1_Digit
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Published_Industry,02_Food_Manufacturing,2023,64,R,NZ Dollars (millions),12 and 28,19.6,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Total,Total,2022,755,R,NZ Dollars (millions),12 and 15 and 17 and 28,7.9,Total
+_13a_Purpose_of_research:_Health,Sector,01_Business Sector,2023,497,R,NZ Dollars (millions),1 and 12 and 15 and 28,16.1,Sector
+_11a_Purpose_of_research:_Primary:_Total,Industry,02_Manufacturing Industry Group,2022,151,R,NZ Dollars (millions),12 and 15 and 28,17.4,Industry
+_12ci_Purpose_of_research:_Construction,Total,Total,2022,185,R,NZ Dollars (millions),12 and 15 and 28,10.8,Total
+_12d_Purpose_of_research:_Information_and_communication_services,Industry,03_Services Industry Group,2022,594,R,NZ Dollars (millions),12 and 15 and 28,20.1,Industry
+_17_Type_of_research:_Experimental,Published_Industry,10_Wholesale trade,2023,127,R,NZ Dollars (millions),12 and 26 and 28,16.3,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Total,Total,2022,2725,R,NZ Dollars (millions),12 and 28,5.9,Total
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Sector,01_Business Sector,2022,961,R,NZ Dollars (millions),1 and 12 and 28,6.8,Sector
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Published_Industry,12_Computer services,2023,118,R,NZ Dollars (millions),12 and 15 and 28,19.7,Published_Industry
+_11a_Purpose_of_research:_Primary:_Total,Published_Industry,11_Scientific research and technical services,2023,82,R,NZ Dollars (millions),12 and 15 and 28,34.2,Published_Industry
+_11ai_Purpose_of_research:_Primary:_Plant_production_and_plant_primary_products,Size,06_100 or more employees,2022,240,R,NZ Dollars (millions),5 and 12 and 15 and 28,6.2,Size
+_12b_Purpose_of_research:_Manufacturing,Industry,03_Services Industry Group,2023,189,R,NZ Dollars (millions),12 and 15 and 28,16.5,Industry
+_13_Broad_purpose_of_research:_Society,Total,Total,2022,1125,R,NZ Dollars (millions),12 and 15 and 19 and 28,5.7,Total
+_14_Broad_purpose_of_research:_Other,Industry,03_Services Industry Group,2023,281,R,NZ Dollars (millions),12 and 15 and 20 and 28,20.7,Industry
+_17_Type_of_research:_Experimental,Published_Industry,02_Food_Manufacturing,2023,54,R,NZ Dollars (millions),12 and 26 and 28,25.3,Published_Industry
+_12cii_Purpose_of_research:_Transport,Published_Industry,08_Machinery and equipment manufacturing,2023,74,R,NZ Dollars (millions),12 and 15 and 28,19.2,Published_Industry
+_11a_Purpose_of_research:_Primary:_Total,Total,Total,2022,755,R,NZ Dollars (millions),12 and 15 and 28,7.9,Total
+_30_Personnel_by_Qualification:_Headcount:_Other_qualifications,Published_Industry,02_Food_Manufacturing,2023,200,R,Number of employees,14 and 28,29.1,Published_Industry
+_13a_Purpose_of_research:_Health,Size,06_100 or more employees,2022,543,R,NZ Dollars (millions),5 and 12 and 15 and 28,6.7,Size
+_16_Type_of_research:_Applied,Published_Industry,13_Other services,2022,211,R,NZ Dollars (millions),4 and 12 and 25 and 28,16.2,Published_Industry
+_17_Type_of_research:_Experimental,ANZSIC_1_Digit,F_Wholesale Trade,2022,125,R,NZ Dollars (millions),12 and 26 and 28,11.6,ANZSIC_1_Digit
+_26_Personnel_by_Qualification:_Headcount:_PhD,Industry,02_Manufacturing Industry Group,2023,490,R,Number of employees,14 and 28,10.6,Industry
+_14_Broad_purpose_of_research:_Other,Published_Industry,10_Wholesale trade,2022,33,R,NZ Dollars (millions),12 and 15 and 20 and 28,19.3,Published_Industry
+_14_Broad_purpose_of_research:_Other,Total,Total,2022,948,R,NZ Dollars (millions),12 and 15 and 20 and 28,4.5,Total
+_14c_Purpose_of_research:_Other,Sector,01_Business Sector,2023,222,R,NZ Dollars (millions),1 and 12 and 15 and 16 and 28,23.8,Sector
+_15_Type_of_research:_Basic:_Total,Size,06_100 or more employees,2022,950,R,NZ Dollars (millions),5 and 12 and 22 and 28,2.4,Size
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,02_Food_Manufacturing,2023,83,R,NZ Dollars (millions),12 and 28,13.2,Published_Industry
+_12d_Purpose_of_research:_Information_and_communication_services,Total,Total,2022,708,R,NZ Dollars (millions),12 and 15 and 28,16.9,Total
+_13_Broad_purpose_of_research:_Society,Sector,01_Business Sector,2023,627,R,NZ Dollars (millions),1 and 12 and 15 and 19 and 28,15.3,Sector
+_16_Type_of_research:_Applied,Size,01_Zero employees,2022,76,R,NZ Dollars (millions),5 and 12 and 25 and 28,34.7,Size
+_37_Personnel_by_Qualification:_FTE:_Total,Industry,03_Services Industry Group,2023,14000,R,Number of employees,14 and 28,7.8,Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Sector,01_Business Sector,2023,1142,R,NZ Dollars (millions),1 and 12 and 28,8.9,Sector
+_01_Total_RD_Expenditure,Sector,01_Business Sector,2022,3182,R,NZ Dollars (millions),1 and 12,5.6,Sector
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,12_Computer services,2022,853,R,NZ Dollars (millions),12 and 15 and 18 and 28,13,Published_Industry
+_12cii_Purpose_of_research:_Transport,Total,Total,2022,167,R,NZ Dollars (millions),12 and 15 and 28,14.6,Total
+_16_Type_of_research:_Applied,Industry,03_Services Industry Group,2022,845,R,NZ Dollars (millions),12 and 25 and 28,9,Industry
+_03_Current_and_Capital_Expenditure:_Capital_Expenditure:_Total,Industry,02_Manufacturing Industry Group,2023,70,R,NZ Dollars (millions),12 and 28,11.9,Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Sector,01_Business Sector,2022,179,R,NZ Dollars (millions),1 and 12 and 15 and 28,15,Sector
+_16_Type_of_research:_Applied,Industry,02_Manufacturing Industry Group,2023,357,R,NZ Dollars (millions),12 and 25 and 28,9,Industry
+_22_Personnel_by_Occupation:_FTE:_Researcher_Total,Published_Industry,12_Computer services,2023,5000,R,Number of employees,14 and 28,12.9,Published_Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,12_Computer services,2022,818,R,NZ Dollars (millions),12 and 28,12.4,Published_Industry
+_12e_Purpose_of_research:_Commercial_services_and_tourism,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,317,R,NZ Dollars (millions),12 and 15 and 28,16.6,ANZSIC_1_Digit
+_01_Total_RD_Expenditure,Published_Industry,10_Wholesale trade,2022,192,R,NZ Dollars (millions),12,10.5,Published_Industry
+_13a_Purpose_of_research:_Health,Total,Total,2022,711,R,NZ Dollars (millions),12 and 15 and 28,7.2,Total
+_16_Type_of_research:_Applied,Published_Industry,08_Machinery and equipment manufacturing,2022,207,R,NZ Dollars (millions),12 and 25 and 28,9.1,Published_Industry
+_24_Personnel_by_Occupation:_FTE:_Other_supporting_staff,Industry,02_Manufacturing Industry Group,2022,550,R,Number of employees,14 and 28,13.1,Industry
+_26_Personnel_by_Qualification:_Headcount:_PhD,Published_Industry,02_Food_Manufacturing,2023,100,R,Number of employees,14 and 28,26.2,Published_Industry
+_32_Personnel_by_Qualification:_FTE:_PhD,Industry,02_Manufacturing Industry Group,2022,350,R,Number of employees,14 and 28,11.7,Industry
+_01_Total_RD_Expenditure,Industry,01_Primary Industry Group,2022,89,R,NZ Dollars (millions),12,42.8,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,12_Computer services,2023,704,R,NZ Dollars (millions),12 and 28,15.8,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Industry,02_Manufacturing Industry Group,2023,957,R,NZ Dollars (millions),12 and 28,5.9,Industry
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Size,06_100 or more employees,2022,211,R,NZ Dollars (millions),5 and 12 and 15 and 28,8.2,Size
+_12e_Purpose_of_research:_Commercial_services_and_tourism,Published_Industry,12_Computer services,2022,284,R,NZ Dollars (millions),12 and 15 and 28,18.1,Published_Industry
+_15_Type_of_research:_Basic:_Total,Industry,03_Services Industry Group,2022,159,R,NZ Dollars (millions),12 and 22 and 28,17.1,Industry
+_16_Type_of_research:_Applied,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,1014,R,NZ Dollars (millions),12 and 25 and 28,6.8,ANZSIC_1_Digit
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Industry,02_Manufacturing Industry Group,2023,596,R,NZ Dollars (millions),12 and 15 and 18 and 28,6.5,Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Size,06_100 or more employees,2022,1489,R,NZ Dollars (millions),5 and 12 and 15 and 18 and 28,7.1,Size
+_21_Personnel_by_Occupation:_Headcount:_Total,Sector,01_Business Sector,2023,29000,R,Number of employees,1 and 14 and 28,5.8,Sector
+_12b_Purpose_of_research:_Manufacturing,Total,Total,2022,735,R,NZ Dollars (millions),12 and 15 and 28,6.7,Total
+_14b_Purpose_of_research:_Environment,Total,Total,2022,592,R,NZ Dollars (millions),12 and 15 and 28,2.6,Total
+_01_Total_RD_Expenditure,Published_Industry,12_Computer services,2022,1063,R,NZ Dollars (millions),12,11.8,Published_Industry
+_01_Total_RD_Expenditure,Published_Industry,13_Other services,2023,861,R,NZ Dollars (millions),4 and 12,19.8,Published_Industry
+_13_Broad_purpose_of_research:_Society,Published_Industry,10_Wholesale trade,2023,44,R,NZ Dollars (millions),12 and 15 and 19 and 28,20.5,Published_Industry
+_23_Personnel_by_Occupation:_FTE:_Technician,Industry,03_Services Industry Group,2022,4700,R,Number of employees,14 and 28,11.2,Industry
+_15_Type_of_research:_Basic:_Total,Total,Total,2022,1044,R,NZ Dollars (millions),12 and 22 and 28,2.9,Total
+_28_Personnel_by_Qualification:_Headcount:_Bachelor_degrees_or_equivalent,Published_Industry,12_Computer services,2023,6900,R,Number of employees,14 and 28,10.4,Published_Industry
+_53_Funding_of_RD_undertaken_externally_by_the:_Tertiary_Sector,Industry,02_Manufacturing Industry Group,2023,8,R,NZ Dollars (millions),7 and 9 and 28,43.8,Industry
+_09_Source_of_Funds:_Overseas,Industry,03_Services Industry Group,2022,343,R,NZ Dollars (millions),12 and 28,18.8,Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,ANZSIC_1_Digit,C_Manufacturing,2022,491,R,NZ Dollars (millions),12 and 15 and 18 and 28,6.5,ANZSIC_1_Digit
+_19_Personnel_by_Occupation:_Headcount:_Technician,Published_Industry,02_Food_Manufacturing,2022,320,R,Number of employees,14 and 28,19.2,Published_Industry
+_35_Personnel_by_Qualification:_FTE:_Technical_and_trade_qualifications,Published_Industry,02_Food_Manufacturing,2023,45,R,Number of employees,14 and 28,24.4,Published_Industry
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,Industry,02_Manufacturing Industry Group,2023,65,R,NZ Dollars (millions),12 and 28,11.9,Industry
+_09_Source_of_Funds:_Overseas,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,335,R,NZ Dollars (millions),12 and 28,18.5,ANZSIC_1_Digit
+_06_Source_of_Funds:_New_Zealand_Private_sector,Size,06_100 or more employees,2022,1584,R,NZ Dollars (millions),5 and 12 and 28,6.9,Size
+_17_Type_of_research:_Experimental,Published_Industry,11_Scientific research and technical services,2022,168,R,NZ Dollars (millions),12 and 26 and 28,11.7,Published_Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Sector,01_Business Sector,2023,2247,R,NZ Dollars (millions),1 and 12 and 28,6.8,Sector
+_09_Source_of_Funds:_Overseas,Sector,01_Business Sector,2023,472,R,NZ Dollars (millions),1 and 12 and 28,14.5,Sector
+_35_Personnel_by_Qualification:_FTE:_Technical_and_trade_qualifications,Size,06_100 or more employees,2022,810,R,Number of employees,5 and 14 and 28,6.7,Size
+_09a_Source_of_Funds:_Overseas:_Overseas_organisation_in_the_same_group,Published_Industry,12_Computer services,2023,190,R,NZ Dollars (millions),12 and 28,24.1,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Industry,03_Services Industry Group,2023,268,R,NZ Dollars (millions),12 and 15 and 17 and 28,19.2,Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,07_Metal product manufacturing,2022,62,R,NZ Dollars (millions),12 and 15 and 18 and 28,13.4,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,12_Computer services,2022,805,R,NZ Dollars (millions),12 and 28,13.5,Published_Industry
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,ANZSIC_1_Digit,C_Manufacturing,2022,73,R,NZ Dollars (millions),12 and 28,8.8,ANZSIC_1_Digit
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,"04_Textiles, clothing, footwear, and leather manufacturing",2023,14,R,NZ Dollars (millions),3 and 12 and 28,27.8,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Industry,03_Services Industry Group,2022,1481,R,NZ Dollars (millions),12 and 15 and 18 and 28,9.9,Industry
+_18a_Personnel_by_Occupation:_Headcount:_Researcher_Employees,Published_Industry,02_Food_Manufacturing,2022,500,R,Number of employees,14 and 28,10.7,Published_Industry
+_03_Current_and_Capital_Expenditure:_Capital_Expenditure:_Total,Industry,03_Services Industry Group,2023,252,R,NZ Dollars (millions),12 and 28,33.5,Industry
+_17_Type_of_research:_Experimental,Sector,01_Business Sector,2023,1989,R,NZ Dollars (millions),1 and 12 and 26 and 28,9.1,Sector
+_28_Personnel_by_Qualification:_Headcount:_Bachelor_degrees_or_equivalent,Published_Industry,02_Food_Manufacturing,2023,610,R,Number of employees,14 and 28,15.7,Published_Industry
+_03_Current_and_Capital_Expenditure:_Capital_Expenditure:_Total,Published_Industry,08_Machinery and equipment manufacturing,2022,69,R,NZ Dollars (millions),12 and 28,11.5,Published_Industry
+_34_Personnel_by_Qualification:_FTE:_Bachelor_degrees_or_equivalent_and_post_graduate_qualifications,Sector,01_Business Sector,2023,15000,R,Number of employees,1 and 14 and 28,6.5,Sector
+_09a_Source_of_Funds:_Overseas:_Overseas_organisation_in_the_same_group,Published_Industry,12_Computer services,2022,189,R,NZ Dollars (millions),12 and 28,28.6,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Sector,01_Business Sector,2022,416,R,NZ Dollars (millions),1 and 12 and 15 and 17 and 28,14.1,Sector
+_06_Source_of_Funds:_New_Zealand_Private_sector,Industry,02_Manufacturing Industry Group,2022,788,R,NZ Dollars (millions),12 and 28,5.7,Industry
+_09a_Source_of_Funds:_Overseas:_Overseas_organisation_in_the_same_group,Published_Industry,10_Wholesale trade,2022,16,R,NZ Dollars (millions),12 and 28,16.1,Published_Industry
+_10_Source_of_Funds:_Other_funding_sources,Sector,01_Business Sector,2023,59,R,NZ Dollars (millions),1 and 12 and 28,24,Sector
+_24_Personnel_by_Occupation:_FTE:_Other_supporting_staff,Published_Industry,02_Food_Manufacturing,2023,75,R,Number of employees,14 and 28,31.8,Published_Industry
+_25_Personnel_by_Occupation:_FTE:_Total,ANZSIC_1_Digit,C_Manufacturing,2022,4800,R,Number of employees,14 and 28,5.9,ANZSIC_1_Digit
+_13a_Purpose_of_research:_Health,Published_Industry,10_Wholesale trade,2023,42,R,NZ Dollars (millions),12 and 15 and 28,21.3,Published_Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,1361,R,NZ Dollars (millions),12 and 28,7.7,ANZSIC_1_Digit
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,03_Beverage and tobacco manufacturing,2023,8,R,NZ Dollars (millions),3 and 12 and 28,11.9,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Sector,01_Business Sector,2023,540,R,NZ Dollars (millions),1 and 12 and 15 and 17 and 28,14.6,Sector
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Published_Industry,02_Food_Manufacturing,2023,63,R,NZ Dollars (millions),12 and 15 and 28,21.8,Published_Industry
+_12e_Purpose_of_research:_Commercial_services_and_tourism,Total,Total,2022,369,R,NZ Dollars (millions),12 and 15 and 28,14.7,Total
+_01_Total_RD_Expenditure,Published_Industry,10_Wholesale trade,2023,223,R,NZ Dollars (millions),12,13.8,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Published_Industry,02_Food_Manufacturing,2022,68,R,NZ Dollars (millions),12 and 15 and 17 and 28,18.1,Published_Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Industry,03_Services Industry Group,2023,108,R,NZ Dollars (millions),12 and 15 and 28,15.2,Industry
+_21_Personnel_by_Occupation:_Headcount:_Total,Industry,03_Services Industry Group,2023,21000,R,Number of employees,14 and 28,7.6,Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,791,R,NZ Dollars (millions),12 and 28,4.4,ANZSIC_1_Digit
+_11a_Purpose_of_research:_Primary:_Total,Published_Industry,02_Food_Manufacturing,2023,69,R,NZ Dollars (millions),12 and 15 and 28,21.1,Published_Industry
+_01_Total_RD_Expenditure,Published_Industry,08_Machinery and equipment manufacturing,2022,538,R,NZ Dollars (millions),12,8.2,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Sector,01_Business Sector,2022,2506,R,NZ Dollars (millions),1 and 12 and 28,6.4,Sector
+_32_Personnel_by_Qualification:_FTE:_PhD,Published_Industry,02_Food_Manufacturing,2023,75,R,Number of employees,14 and 28,28.5,Published_Industry
+_17_Type_of_research:_Experimental,Published_Industry,12_Computer services,2022,539,R,NZ Dollars (millions),12 and 26 and 28,15.9,Published_Industry
+_34_Personnel_by_Qualification:_FTE:_Bachelor_degrees_or_equivalent_and_post_graduate_qualifications,Published_Industry,12_Computer services,2023,5800,R,Number of employees,14 and 28,11.9,Published_Industry
+_35_Personnel_by_Qualification:_FTE:_Technical_and_trade_qualifications,Published_Industry,02_Food_Manufacturing,2022,55,R,Number of employees,14 and 28,20.7,Published_Industry
+_36_Personnel_by_Qualification:_FTE:_Other_qualifications,Industry,02_Manufacturing Industry Group,2023,700,R,Number of employees,14 and 28,9.4,Industry
+_01_Total_RD_Expenditure,Published_Industry,12_Computer services,2023,1081,R,NZ Dollars (millions),12,12.6,Published_Industry
+_21_Personnel_by_Occupation:_Headcount:_Total,Published_Industry,02_Food_Manufacturing,2022,1000,R,Number of employees,14 and 28,11.7,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,02_Food_Manufacturing,2022,141,R,NZ Dollars (millions),12 and 28,10.9,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Industry,02_Manufacturing Industry Group,2022,491,R,NZ Dollars (millions),12 and 15 and 18 and 28,6.5,Industry
+_12b_Purpose_of_research:_Manufacturing,Industry,02_Manufacturing Industry Group,2022,325,R,NZ Dollars (millions),12 and 15 and 28,8.3,Industry
+_14_Broad_purpose_of_research:_Other,Sector,01_Business Sector,2022,277,R,NZ Dollars (millions),1 and 12 and 15 and 20 and 28,14.4,Sector
+_16_Type_of_research:_Applied,Published_Industry,12_Computer services,2022,448,R,NZ Dollars (millions),12 and 25 and 28,13.6,Published_Industry
+_21_Personnel_by_Occupation:_Headcount:_Total,Industry,02_Manufacturing Industry Group,2022,6900,R,Number of employees,14 and 28,7.3,Industry
+_28_Personnel_by_Qualification:_Headcount:_Bachelor_degrees_or_equivalent,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,14000,R,Number of employees,14 and 28,7.7,ANZSIC_1_Digit
+_07_Source_of_Funds:_New_Zealand_Government_Public_sector:_Total,Published_Industry,13_Other services,2022,72,R,NZ Dollars (millions),4 and 12 and 21 and 28,26.4,Published_Industry
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Published_Industry,12_Computer services,2022,116,R,NZ Dollars (millions),12 and 15 and 28,14.3,Published_Industry
+_28_Personnel_by_Qualification:_Headcount:_Bachelor_degrees_or_equivalent,Sector,01_Business Sector,2023,21000,R,Number of employees,1 and 14 and 28,6.7,Sector
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Size,06_100 or more employees,2022,1385,R,NZ Dollars (millions),5 and 12 and 28,3.1,Size
+_15_Type_of_research:_Basic:_Total,Published_Industry,12_Computer services,2023,107,R,NZ Dollars (millions),12 and 22 and 28,28.8,Published_Industry
+_15_Type_of_research:_Basic:_Total,Sector,01_Business Sector,2022,197,R,NZ Dollars (millions),1 and 12 and 22 and 28,14.9,Sector
+_23_Personnel_by_Occupation:_FTE:_Technician,Sector,01_Business Sector,2022,6100,R,Number of employees,1 and 14 and 28,9.2,Sector
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Published_Industry,02_Food_Manufacturing,2023,11,R,NZ Dollars (millions),7 and 9,140.1,Published_Industry
+_11ai_Purpose_of_research:_Primary:_Plant_production_and_plant_primary_products,Industry,01_Primary Industry Group,2023,59,R,NZ Dollars (millions),12 and 15 and 28,89.6,Industry
+_23_Personnel_by_Occupation:_FTE:_Technician,Size,06_100 or more employees,2022,5300,R,Number of employees,5 and 14 and 28,7.4,Size
+_31_Personnel_by_Qualification:_Headcount:_Total,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,19000,R,Number of employees,14 and 28,6.7,ANZSIC_1_Digit
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,ANZSIC_1_Digit,F_Wholesale Trade,2022,16,R,NZ Dollars (millions),12 and 28,13.3,ANZSIC_1_Digit
+_10_Source_of_Funds:_Other_funding_sources,Sector,01_Business Sector,2022,40,R,NZ Dollars (millions),1 and 12 and 28,17.1,Sector
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Published_Industry,10_Wholesale trade,2023,21,R,NZ Dollars (millions),12 and 15 and 28,34.6,Published_Industry
+_12b_Purpose_of_research:_Manufacturing,Published_Industry,02_Food_Manufacturing,2023,79,R,NZ Dollars (millions),12 and 15 and 28,15.2,Published_Industry
+_15_Type_of_research:_Basic:_Total,Sector,01_Business Sector,2023,268,R,NZ Dollars (millions),1 and 12 and 22 and 28,13.7,Sector
+_53_Funding_of_RD_undertaken_externally_by_the:_Tertiary_Sector,Published_Industry,02_Food_Manufacturing,2023,4,R,NZ Dollars (millions),7 and 9 and 28,75.3,Published_Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Industry,02_Manufacturing Industry Group,2023,44,R,NZ Dollars (millions),7 and 9,46.3,Industry
+_21_Personnel_by_Occupation:_Headcount:_Total,Published_Industry,12_Computer services,2022,8900,R,Number of employees,14 and 28,10.5,Published_Industry
+_25_Personnel_by_Occupation:_FTE:_Total,Industry,02_Manufacturing Industry Group,2022,4900,R,Number of employees,14 and 28,5.9,Industry
+_31_Personnel_by_Qualification:_Headcount:_Total,Published_Industry,12_Computer services,2023,8500,R,Number of employees,14 and 28,10.4,Published_Industry
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Sector,01_Business Sector,2023,355,R,NZ Dollars (millions),1 and 12 and 15 and 28,11.3,Sector
+_18a_Personnel_by_Occupation:_Headcount:_Researcher_Employees,Industry,03_Services Industry Group,2023,13000,R,Number of employees,14 and 28,7.8,Industry
+_03_Current_and_Capital_Expenditure:_Capital_Expenditure:_Total,Total,Total,2022,495,R,NZ Dollars (millions),12 and 28,9,Total
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,10_Wholesale trade,2023,176,R,NZ Dollars (millions),12 and 28,17.4,Published_Industry
+_22a_Personnel_by_Occupation:_FTE:_Researcher_Employees,Industry,03_Services Industry Group,2023,9200,R,Number of employees,14 and 28,8.9,Industry
+_26_Personnel_by_Qualification:_Headcount:_PhD,ANZSIC_1_Digit,C_Manufacturing,2022,420,R,Number of employees,14 and 28,11.7,ANZSIC_1_Digit
+_09_Source_of_Funds:_Overseas,Total,Total,2022,450,R,NZ Dollars (millions),12 and 28,14.7,Total
+_14_Broad_purpose_of_research:_Other,Sector,01_Business Sector,2023,318,R,NZ Dollars (millions),1 and 12 and 15 and 20 and 28,19,Sector
+_32_Personnel_by_Qualification:_FTE:_PhD,Published_Industry,02_Food_Manufacturing,2022,85,R,Number of employees,14 and 28,23.4,Published_Industry
+_54_Funding_of_RD_undertaken_externally_by_the:_Overseas_Sector,Industry,03_Services Industry Group,2023,180,R,NZ Dollars (millions),7 and 9 and 28,34.3,Industry
+_16_Type_of_research:_Applied,Published_Industry,02_Food_Manufacturing,2023,29,R,NZ Dollars (millions),12 and 25 and 28,30.6,Published_Industry
+_20_Personnel_by_Occupation:_Headcount:_Other_supporting_staff,Industry,02_Manufacturing Industry Group,2023,990,R,Number of employees,14 and 28,11,Industry
+_01_Total_RD_Expenditure,Published_Industry,02_Food_Manufacturing,2022,148,R,NZ Dollars (millions),12,10.5,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,07_Metal product manufacturing,2023,101,R,NZ Dollars (millions),12 and 28,15.6,Published_Industry
+_09a_Source_of_Funds:_Overseas:_Overseas_organisation_in_the_same_group,Published_Industry,11_Scientific research and technical services,2022,63,R,NZ Dollars (millions),12 and 28,18.8,Published_Industry
+_11ai_Purpose_of_research:_Primary:_Plant_production_and_plant_primary_products,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,229,R,NZ Dollars (millions),12 and 15 and 28,8.6,ANZSIC_1_Digit
+_17_Type_of_research:_Experimental,Published_Industry,07_Metal product manufacturing,2023,53,R,NZ Dollars (millions),12 and 26 and 28,16,Published_Industry
+_20_Personnel_by_Occupation:_Headcount:_Other_supporting_staff,Published_Industry,02_Food_Manufacturing,2023,170,R,Number of employees,14 and 28,27.1,Published_Industry
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Sector,01_Business Sector,2022,296,R,NZ Dollars (millions),1 and 12 and 15 and 28,10.3,Sector
+_28_Personnel_by_Qualification:_Headcount:_Bachelor_degrees_or_equivalent,Industry,03_Services Industry Group,2023,16000,R,Number of employees,14 and 28,8.5,Industry
+_30_Personnel_by_Qualification:_Headcount:_Other_qualifications,Published_Industry,02_Food_Manufacturing,2022,300,R,Number of employees,14 and 28,29.8,Published_Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Published_Industry,02_Food_Manufacturing,2022,7,R,NZ Dollars (millions),7 and 9,41.4,Published_Industry
+_14_Broad_purpose_of_research:_Other,Published_Industry,11_Scientific research and technical services,2023,97,R,NZ Dollars (millions),12 and 15 and 20 and 28,14.2,Published_Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Size,05_50 to 99 employees,2022,99,R,NZ Dollars (millions),5 and 12 and 28,26.4,Size
+_07_Source_of_Funds:_New_Zealand_Government_Public_sector:_Total,Total,Total,2022,1429,R,NZ Dollars (millions),12 and 21 and 28,2.5,Total
+_09_Source_of_Funds:_Overseas,Industry,03_Services Industry Group,2023,436,R,NZ Dollars (millions),12 and 28,15.4,Industry
+_28_Personnel_by_Qualification:_Headcount:_Bachelor_degrees_or_equivalent,Industry,03_Services Industry Group,2022,17000,R,Number of employees,14 and 28,8.1,Industry
+_25_Personnel_by_Occupation:_FTE:_Total,Published_Industry,12_Computer services,2022,7100,R,Number of employees,14 and 28,12.3,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,09_Other manufacturing,2023,21,R,NZ Dollars (millions),12 and 15 and 18 and 28,21.9,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,12_Computer services,2023,829,R,NZ Dollars (millions),12 and 15 and 18 and 28,13.8,Published_Industry
+_12b_Purpose_of_research:_Manufacturing,Published_Industry,12_Computer services,2023,63,R,NZ Dollars (millions),12 and 15 and 28,28.9,Published_Industry
+_23_Personnel_by_Occupation:_FTE:_Technician,Published_Industry,02_Food_Manufacturing,2022,240,R,Number of employees,14 and 28,21.3,Published_Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Published_Industry,12_Computer services,2022,208,R,NZ Dollars (millions),12 and 28,14.4,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,02_Food_Manufacturing,2023,142,R,NZ Dollars (millions),12 and 28,12.5,Published_Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Industry,02_Manufacturing Industry Group,2022,108,R,NZ Dollars (millions),12 and 15 and 28,20.4,Industry
+_52_Funding_of_RD_undertaken_externally_by_the:_Government_Sector:_Total,Industry,03_Services Industry Group,2022,28,R,NZ Dollars (millions),7 and 9 and 28,41.3,Industry
+_01_Total_RD_Expenditure,Industry,02_Manufacturing Industry Group,2022,875,R,NZ Dollars (millions),12,5.8,Industry
+_01_Total_RD_Expenditure,Size,06_100 or more employees,2022,3834,R,NZ Dollars (millions),5 and 12,2.9,Size
+_07a_Source_of_Funds:_New_Zealand_Government_Public_sector:_NZ_central_government_funding_agencies,Industry,02_Manufacturing Industry Group,2023,36,R,NZ Dollars (millions),12 and 28,20.4,Industry
+_14c_Purpose_of_research:_Other,Published_Industry,11_Scientific research and technical services,2022,50,R,NZ Dollars (millions),12 and 15 and 16 and 28,17.2,Published_Industry
+_20_Personnel_by_Occupation:_Headcount:_Other_supporting_staff,Published_Industry,02_Food_Manufacturing,2022,250,R,Number of employees,14 and 28,35,Published_Industry
+_12b_Purpose_of_research:_Manufacturing,ANZSIC_1_Digit,C_Manufacturing,2022,325,R,NZ Dollars (millions),12 and 15 and 28,8.3,ANZSIC_1_Digit
+_11_Broad_purpose_of_research:_Primary_Industries,ANZSIC_1_Digit,C_Manufacturing,2022,151,R,NZ Dollars (millions),12 and 15 and 17 and 28,17.4,ANZSIC_1_Digit
+_29_Personnel_by_Qualification:_Headcount:_Technical_and_trade_qualifications,Published_Industry,02_Food_Manufacturing,2022,70,R,Number of employees,14 and 28,22.9,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,08_Machinery and equipment manufacturing,2022,276,R,NZ Dollars (millions),12 and 15 and 18 and 28,10.1,Published_Industry
+_18a_Personnel_by_Occupation:_Headcount:_Researcher_Employees,Industry,02_Manufacturing Industry Group,2023,4300,R,Number of employees,14 and 28,7,Industry
+_21_Personnel_by_Occupation:_Headcount:_Total,Industry,03_Services Industry Group,2022,22000,R,Number of employees,14 and 28,7.4,Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Industry,03_Services Industry Group,2023,1896,R,NZ Dollars (millions),12 and 28,11.1,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,10_Wholesale trade,2022,108,R,NZ Dollars (millions),12 and 28,13.6,Published_Industry
+_18a_Personnel_by_Occupation:_Headcount:_Researcher_Employees,Sector,01_Business Sector,2023,17000,R,Number of employees,1 and 14 and 28,5.9,Sector
+_19_Personnel_by_Occupation:_Headcount:_Technician,Industry,03_Services Industry Group,2022,7900,R,Number of employees,14 and 28,11.7,Industry
+_14_Broad_purpose_of_research:_Other,Size,06_100 or more employees,2022,795,R,NZ Dollars (millions),5 and 12 and 15 and 20 and 28,3.5,Size
+_07_Source_of_Funds:_New_Zealand_Government_Public_sector:_Total,Industry,03_Services Industry Group,2022,184,R,NZ Dollars (millions),12 and 21 and 28,14.3,Industry
+_12c_Purpose_of_research:_Construction_and_transport:_Total,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,168,R,NZ Dollars (millions),12 and 15 and 28,11.5,ANZSIC_1_Digit
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Published_Industry,08_Machinery and equipment manufacturing,2023,91,R,NZ Dollars (millions),12 and 15 and 28,19.6,Published_Industry
+_16_Type_of_research:_Applied,ANZSIC_1_Digit,C_Manufacturing,2022,292,R,NZ Dollars (millions),12 and 25 and 28,6.9,ANZSIC_1_Digit
+_22_Personnel_by_Occupation:_FTE:_Researcher_Total,Sector,01_Business Sector,2023,13000,R,Number of employees,1 and 14 and 28,6.6,Sector
+_31_Personnel_by_Qualification:_Headcount:_Total,Published_Industry,02_Food_Manufacturing,2022,1000,R,Number of employees,14 and 28,11.7,Published_Industry
+_16_Type_of_research:_Applied,Published_Industry,12_Computer services,2023,446,R,NZ Dollars (millions),12 and 25 and 28,14.6,Published_Industry
+_15_Type_of_research:_Basic:_Total,Published_Industry,10_Wholesale trade,2023,17,R,NZ Dollars (millions),12 and 22 and 28,23.5,Published_Industry
+_53_Funding_of_RD_undertaken_externally_by_the:_Tertiary_Sector,Industry,02_Manufacturing Industry Group,2022,7,R,NZ Dollars (millions),7 and 9 and 28,25.7,Industry
+_10_Source_of_Funds:_Other_funding_sources,Published_Industry,13_Other services,2023,23,R,NZ Dollars (millions),4 and 12 and 28,24.1,Published_Industry
+_14_Broad_purpose_of_research:_Other,ANZSIC_1_Digit,F_Wholesale Trade,2022,33,R,NZ Dollars (millions),12 and 15 and 20 and 28,19.3,ANZSIC_1_Digit
+_11a_Purpose_of_research:_Primary:_Total,Industry,03_Services Industry Group,2023,268,R,NZ Dollars (millions),12 and 15 and 28,19.2,Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Industry,02_Manufacturing Industry Group,2023,107,R,NZ Dollars (millions),12 and 15 and 28,15.8,Industry
+_21_Personnel_by_Occupation:_Headcount:_Total,Published_Industry,02_Food_Manufacturing,2023,990,R,Number of employees,14 and 28,13.1,Published_Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Industry,02_Manufacturing Industry Group,2022,38,R,NZ Dollars (millions),7 and 9,30.2,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Size,05_50 to 99 employees,2022,236,R,NZ Dollars (millions),5 and 12 and 28,17.8,Size
+_03_Current_and_Capital_Expenditure:_Capital_Expenditure:_Total,Published_Industry,02_Food_Manufacturing,2022,8,R,NZ Dollars (millions),12 and 28,22.3,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Total,Total,2022,2365,R,NZ Dollars (millions),12 and 15 and 18 and 28,6.4,Total
+_01_Total_RD_Expenditure,Published_Industry,08_Machinery and equipment manufacturing,2023,640,R,NZ Dollars (millions),12,8.1,Published_Industry
+_35_Personnel_by_Qualification:_FTE:_Technical_and_trade_qualifications,Industry,02_Manufacturing Industry Group,2022,660,R,Number of employees,14 and 28,9.9,Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Published_Industry,02_Food_Manufacturing,2022,65,R,NZ Dollars (millions),12 and 15 and 28,18.9,Published_Industry
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Industry,03_Services Industry Group,2023,230,R,NZ Dollars (millions),12 and 15 and 28,15.2,Industry
+_14b_Purpose_of_research:_Environment,Sector,01_Business Sector,2022,84,R,NZ Dollars (millions),1 and 12 and 15 and 28,18.1,Sector
+_14c_Purpose_of_research:_Other,Published_Industry,10_Wholesale trade,2023,44,R,NZ Dollars (millions),12 and 15 and 16 and 28,58.6,Published_Industry
+_13a_Purpose_of_research:_Health,Industry,03_Services Industry Group,2023,246,R,NZ Dollars (millions),12 and 15 and 28,25.8,Industry
+_17_Type_of_research:_Experimental,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,883,R,NZ Dollars (millions),12 and 26 and 28,10,ANZSIC_1_Digit
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,02_Food_Manufacturing,2022,83,R,NZ Dollars (millions),12 and 28,11.8,Published_Industry
+_09_Source_of_Funds:_Overseas,Sector,01_Business Sector,2022,375,R,NZ Dollars (millions),1 and 12 and 28,17.6,Sector
+_11a_Purpose_of_research:_Primary:_Total,Published_Industry,02_Food_Manufacturing,2022,68,R,NZ Dollars (millions),12 and 15 and 28,18.1,Published_Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Size,06_100 or more employees,2022,258,R,NZ Dollars (millions),5 and 12 and 15 and 28,7.3,Size
+_13_Broad_purpose_of_research:_Society,Sector,01_Business Sector,2022,492,R,NZ Dollars (millions),1 and 12 and 15 and 19 and 28,12.9,Sector
+_12e_Purpose_of_research:_Commercial_services_and_tourism,Industry,03_Services Industry Group,2022,339,R,NZ Dollars (millions),12 and 15 and 28,16,Industry
+_18_Personnel_by_Occupation:_Headcount:_Researcher_Total,Published_Industry,10_Wholesale trade,2023,890,R,Number of employees,14 and 28,9.5,Published_Industry
+_36_Personnel_by_Qualification:_FTE:_Other_qualifications,Industry,02_Manufacturing Industry Group,2022,610,R,Number of employees,14 and 28,9.4,Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Industry,03_Services Industry Group,2022,617,R,NZ Dollars (millions),12 and 28,9.4,Industry
+_07a_Source_of_Funds:_New_Zealand_Government_Public_sector:_NZ_central_government_funding_agencies,Sector,01_Business Sector,2022,247,R,NZ Dollars (millions),1 and 12 and 28,12,Sector
+_09_Source_of_Funds:_Overseas,Published_Industry,11_Scientific research and technical services,2022,75,R,NZ Dollars (millions),12 and 28,18.5,Published_Industry
+_21_Personnel_by_Occupation:_Headcount:_Total,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,18000,R,Number of employees,14 and 28,6.4,ANZSIC_1_Digit
+_21_Personnel_by_Occupation:_Headcount:_Total,Published_Industry,12_Computer services,2023,8500,R,Number of employees,14 and 28,10.4,Published_Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,ANZSIC_1_Digit,C_Manufacturing,2022,481,R,NZ Dollars (millions),12 and 28,6,ANZSIC_1_Digit
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,ANZSIC_1_Digit,"A_Agriculture, Forestry and Fishing",2022,45,R,NZ Dollars (millions),12 and 28,38.7,ANZSIC_1_Digit
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,ANZSIC_1_Digit,C_Manufacturing,2022,306,R,NZ Dollars (millions),12 and 28,8.2,ANZSIC_1_Digit
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Industry,03_Services Industry Group,2022,204,R,NZ Dollars (millions),12 and 15 and 28,12.6,Industry
+_14_Broad_purpose_of_research:_Other,Published_Industry,11_Scientific research and technical services,2022,65,R,NZ Dollars (millions),12 and 15 and 20 and 28,16.3,Published_Industry
+_16_Type_of_research:_Applied,Total,Total,2022,1980,R,NZ Dollars (millions),12 and 25 and 28,4.1,Total
+_25_Personnel_by_Occupation:_FTE:_Total,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,13000,R,Number of employees,14 and 28,7.1,ANZSIC_1_Digit
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,08_Machinery and equipment manufacturing,2023,481,R,NZ Dollars (millions),12 and 28,9.2,Published_Industry
+_11a_Purpose_of_research:_Primary:_Total,Published_Industry,13_Other services,2023,97,R,NZ Dollars (millions),4 and 12 and 15 and 28,18.4,Published_Industry
+_12e_Purpose_of_research:_Commercial_services_and_tourism,Published_Industry,12_Computer services,2023,282,R,NZ Dollars (millions),12 and 15 and 28,18.6,Published_Industry
+_19_Personnel_by_Occupation:_Headcount:_Technician,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,7000,R,Number of employees,14 and 28,10.9,ANZSIC_1_Digit
+_06_Source_of_Funds:_New_Zealand_Private_sector,ANZSIC_1_Digit,C_Manufacturing,2022,788,R,NZ Dollars (millions),12 and 28,5.7,ANZSIC_1_Digit
+_12cii_Purpose_of_research:_Transport,Industry,02_Manufacturing Industry Group,2023,79,R,NZ Dollars (millions),12 and 15 and 28,18.8,Industry
+_23_Personnel_by_Occupation:_FTE:_Technician,Total,Total,2022,8300,R,Number of employees,14 and 28,6.8,Total
+_54_Funding_of_RD_undertaken_externally_by_the:_Overseas_Sector,Industry,02_Manufacturing Industry Group,2022,9,R,NZ Dollars (millions),7 and 9 and 28,54.6,Industry
+_18_Personnel_by_Occupation:_Headcount:_Researcher_Total,Industry,02_Manufacturing Industry Group,2023,4300,R,Number of employees,14 and 28,7,Industry
+_54_Funding_of_RD_undertaken_externally_by_the:_Overseas_Sector,Industry,03_Services Industry Group,2022,212,R,NZ Dollars (millions),7 and 9 and 28,35.2,Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,08_Machinery and equipment manufacturing,2023,327,R,NZ Dollars (millions),12 and 15 and 18 and 28,9.6,Published_Industry
+_01_Total_RD_Expenditure,Sector,01_Business Sector,2023,3721,R,NZ Dollars (millions),1 and 12,6.5,Sector
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Published_Industry,07_Metal product manufacturing,2022,45,R,NZ Dollars (millions),12 and 28,16.5,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,08_Machinery and equipment manufacturing,2023,592,R,NZ Dollars (millions),12 and 28,8.5,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Published_Industry,13_Other services,2023,97,R,NZ Dollars (millions),4 and 12 and 15 and 17 and 28,18.4,Published_Industry
+_18_Personnel_by_Occupation:_Headcount:_Researcher_Total,Published_Industry,02_Food_Manufacturing,2022,500,R,Number of employees,14 and 28,10.7,Published_Industry
+_31_Personnel_by_Qualification:_Headcount:_Total,Published_Industry,02_Food_Manufacturing,2023,980,R,Number of employees,14 and 28,13.2,Published_Industry
+_32_Personnel_by_Qualification:_FTE:_PhD,ANZSIC_1_Digit,C_Manufacturing,2022,340,R,Number of employees,14 and 28,11.7,ANZSIC_1_Digit
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Industry,03_Services Industry Group,2023,1571,R,NZ Dollars (millions),12 and 15 and 18 and 28,12.4,Industry
+_37_Personnel_by_Qualification:_FTE:_Total,Industry,02_Manufacturing Industry Group,2022,4800,R,Number of employees,14 and 28,5.9,Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Published_Industry,12_Computer services,2022,194,R,NZ Dollars (millions),7 and 9,42.5,Published_Industry
+_16_Type_of_research:_Applied,Size,05_50 to 99 employees,2022,112,R,NZ Dollars (millions),5 and 12 and 25 and 28,28.5,Size
+_17_Type_of_research:_Experimental,Sector,01_Business Sector,2022,1728,R,NZ Dollars (millions),1 and 12 and 26 and 28,7.8,Sector
+_06_Source_of_Funds:_New_Zealand_Private_sector,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,1217,R,NZ Dollars (millions),12 and 28,9.4,ANZSIC_1_Digit
+_11a_Purpose_of_research:_Primary:_Total,Industry,02_Manufacturing Industry Group,2023,154,R,NZ Dollars (millions),12 and 15 and 28,13.6,Industry
+_13a_Purpose_of_research:_Health,Sector,01_Business Sector,2022,384,R,NZ Dollars (millions),1 and 12 and 15 and 28,13.1,Sector
+_29_Personnel_by_Qualification:_Headcount:_Technical_and_trade_qualifications,Published_Industry,02_Food_Manufacturing,2023,75,R,Number of employees,14 and 28,30.3,Published_Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Industry,03_Services Industry Group,2023,367,R,NZ Dollars (millions),7 and 9,77.5,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,ANZSIC_1_Digit,F_Wholesale Trade,2022,108,R,NZ Dollars (millions),12 and 28,13.6,ANZSIC_1_Digit
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Total,Total,2022,3023,R,NZ Dollars (millions),12 and 28,4.1,Total
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Published_Industry,08_Machinery and equipment manufacturing,2022,164,R,NZ Dollars (millions),12 and 28,12.6,Published_Industry
+_19_Personnel_by_Occupation:_Headcount:_Technician,Published_Industry,02_Food_Manufacturing,2023,270,R,Number of employees,14 and 28,16.4,Published_Industry
+_37_Personnel_by_Qualification:_FTE:_Total,Industry,02_Manufacturing Industry Group,2023,5500,R,Number of employees,14 and 28,6.2,Industry
+_12a_Purpose_of_research:_Energy,Total,Total,2022,201,R,NZ Dollars (millions),12 and 15 and 28,25.4,Total
+_09_Source_of_Funds:_Overseas,Published_Industry,12_Computer services,2023,218,R,NZ Dollars (millions),12 and 28,25.4,Published_Industry
+_24_Personnel_by_Occupation:_FTE:_Other_supporting_staff,Industry,02_Manufacturing Industry Group,2023,570,R,Number of employees,14 and 28,11.2,Industry
+_34_Personnel_by_Qualification:_FTE:_Bachelor_degrees_or_equivalent_and_post_graduate_qualifications,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,9300,R,Number of employees,14 and 28,8.6,ANZSIC_1_Digit
+_37_Personnel_by_Qualification:_FTE:_Total,Published_Industry,02_Food_Manufacturing,2023,730,R,Number of employees,14 and 28,14.3,Published_Industry
+_03_Current_and_Capital_Expenditure:_Capital_Expenditure:_Total,Sector,01_Business Sector,2022,238,R,NZ Dollars (millions),1 and 12 and 28,18.6,Sector
+_06_Source_of_Funds:_New_Zealand_Private_sector,Sector,01_Business Sector,2023,2937,R,NZ Dollars (millions),1 and 12 and 28,7.5,Sector
+_07_Source_of_Funds:_New_Zealand_Government_Public_sector:_Total,Industry,03_Services Industry Group,2023,154,R,NZ Dollars (millions),12 and 21 and 28,12.7,Industry
+_24_Personnel_by_Occupation:_FTE:_Other_supporting_staff,Published_Industry,02_Food_Manufacturing,2022,100,R,Number of employees,14 and 28,27.8,Published_Industry
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,Industry,03_Services Industry Group,2023,232,R,NZ Dollars (millions),12 and 28,35.9,Industry
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,Industry,02_Manufacturing Industry Group,2022,73,R,NZ Dollars (millions),12 and 28,8.8,Industry
+_17_Type_of_research:_Experimental,Size,06_100 or more employees,2022,1216,R,NZ Dollars (millions),5 and 12 and 26 and 28,7.4,Size
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,02_Food_Manufacturing,2023,81,R,NZ Dollars (millions),12 and 15 and 18 and 28,14.8,Published_Industry
+_12b_Purpose_of_research:_Manufacturing,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,205,R,NZ Dollars (millions),12 and 15 and 28,14.5,ANZSIC_1_Digit
+_12d_Purpose_of_research:_Information_and_communication_services,Published_Industry,13_Other services,2023,224,R,NZ Dollars (millions),4 and 12 and 15 and 28,46,Published_Industry
+_22a_Personnel_by_Occupation:_FTE:_Researcher_Employees,Published_Industry,02_Food_Manufacturing,2022,420,R,Number of employees,14 and 28,11.7,Published_Industry
+_16_Type_of_research:_Applied,Size,06_100 or more employees,2022,1443,R,NZ Dollars (millions),5 and 12 and 25 and 28,3.7,Size
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Industry,02_Manufacturing Industry Group,2023,664,R,NZ Dollars (millions),12 and 28,7,Industry
+_11a_Purpose_of_research:_Primary:_Total,Sector,01_Business Sector,2022,416,R,NZ Dollars (millions),1 and 12 and 15 and 28,14.1,Sector
+_25_Personnel_by_Occupation:_FTE:_Total,Published_Industry,02_Food_Manufacturing,2023,730,R,Number of employees,14 and 28,14.3,Published_Industry
+_37_Personnel_by_Qualification:_FTE:_Total,Published_Industry,12_Computer services,2022,7100,R,Number of employees,14 and 28,12.3,Published_Industry
+_10_Source_of_Funds:_Other_funding_sources,Industry,03_Services Industry Group,2022,39,R,NZ Dollars (millions),12 and 28,17.3,Industry
+_11a_Purpose_of_research:_Primary:_Total,ANZSIC_1_Digit,C_Manufacturing,2022,151,R,NZ Dollars (millions),12 and 15 and 28,17.4,ANZSIC_1_Digit
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,10_Wholesale trade,2022,102,R,NZ Dollars (millions),12 and 15 and 18 and 28,13.2,Published_Industry
+_17_Type_of_research:_Experimental,Published_Industry,08_Machinery and equipment manufacturing,2022,313,R,NZ Dollars (millions),12 and 26 and 28,10.9,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,11_Scientific research and technical services,2023,153,R,NZ Dollars (millions),12 and 15 and 18 and 28,24.2,Published_Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,11_Scientific research and technical services,2023,221,R,NZ Dollars (millions),12 and 28,12,Published_Industry
+_23_Personnel_by_Occupation:_FTE:_Technician,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,4600,R,Number of employees,14 and 28,10.4,ANZSIC_1_Digit
+_01_Total_RD_Expenditure,Total,Total,2022,5336,R,NZ Dollars (millions),12,3.3,Total
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,117,R,NZ Dollars (millions),12 and 28,15.5,ANZSIC_1_Digit
+_53_Funding_of_RD_undertaken_externally_by_the:_Tertiary_Sector,Sector,01_Business Sector,2023,33,R,NZ Dollars (millions),1 and 7 and 9 and 28,80.6,Sector
+_01_Total_RD_Expenditure,ANZSIC_1_Digit,C_Manufacturing,2022,875,R,NZ Dollars (millions),12,5.8,ANZSIC_1_Digit
+_12d_Purpose_of_research:_Information_and_communication_services,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,409,R,NZ Dollars (millions),12 and 15 and 28,23.8,ANZSIC_1_Digit
+_17_Type_of_research:_Experimental,Industry,02_Manufacturing Industry Group,2022,485,R,NZ Dollars (millions),12 and 26 and 28,8,Industry
+_10_Source_of_Funds:_Other_funding_sources,Total,Total,2022,200,R,NZ Dollars (millions),12 and 28,3.8,Total
+_14c_Purpose_of_research:_Other,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,123,R,NZ Dollars (millions),12 and 15 and 16 and 28,24.4,ANZSIC_1_Digit
+_25_Personnel_by_Occupation:_FTE:_Total,Published_Industry,12_Computer services,2023,7000,R,Number of employees,14 and 28,12,Published_Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Published_Industry,"05_Petroleum, coal, chemical, and associated product",2022,11,R,NZ Dollars (millions),7 and 9,41.1,Published_Industry
+_22_Personnel_by_Occupation:_FTE:_Researcher_Total,Industry,03_Services Industry Group,2023,9200,R,Number of employees,14 and 28,8.9,Industry
+_37_Personnel_by_Qualification:_FTE:_Total,Sector,01_Business Sector,2023,20000,R,Number of employees,1 and 14 and 28,5.8,Sector
+_12b_Purpose_of_research:_Manufacturing,Size,06_100 or more employees,2022,512,R,NZ Dollars (millions),5 and 12 and 15 and 28,6.2,Size
+_28_Personnel_by_Qualification:_Headcount:_Bachelor_degrees_or_equivalent,Published_Industry,02_Food_Manufacturing,2022,610,R,Number of employees,14 and 28,11.7,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,ANZSIC_1_Digit,K_Financial and Insurance Services,2022,98,R,NZ Dollars (millions),12 and 15 and 18 and 28,48.6,ANZSIC_1_Digit
+_12d_Purpose_of_research:_Information_and_communication_services,Industry,03_Services Industry Group,2023,602,R,NZ Dollars (millions),12 and 15 and 28,24.2,Industry
+_14c_Purpose_of_research:_Other,Industry,03_Services Industry Group,2023,210,R,NZ Dollars (millions),12 and 15 and 16 and 28,24.8,Industry
+_18_Personnel_by_Occupation:_Headcount:_Researcher_Total,Sector,01_Business Sector,2023,17000,R,Number of employees,1 and 14 and 28,5.9,Sector
+_01_Total_RD_Expenditure,Published_Industry,11_Scientific research and technical services,2022,320,R,NZ Dollars (millions),12,11.6,Published_Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Published_Industry,02_Food_Manufacturing,2022,57,R,NZ Dollars (millions),12 and 28,12,Published_Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,ANZSIC_1_Digit,C_Manufacturing,2022,108,R,NZ Dollars (millions),12 and 15 and 28,20.4,ANZSIC_1_Digit
+_01_Total_RD_Expenditure,Industry,02_Manufacturing Industry Group,2023,1034,R,NZ Dollars (millions),12,5.8,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,10_Wholesale trade,2023,118,R,NZ Dollars (millions),12 and 28,15.7,Published_Industry
+_12d_Purpose_of_research:_Information_and_communication_services,Published_Industry,08_Machinery and equipment manufacturing,2023,58,R,NZ Dollars (millions),12 and 15 and 28,13.7,Published_Industry
+_16_Type_of_research:_Applied,Published_Industry,08_Machinery and equipment manufacturing,2023,246,R,NZ Dollars (millions),12 and 25 and 28,12,Published_Industry
+_16_Type_of_research:_Applied,Sector,01_Business Sector,2022,1168,R,NZ Dollars (millions),1 and 12 and 25 and 28,6.9,Sector
+_34_Personnel_by_Qualification:_FTE:_Bachelor_degrees_or_equivalent_and_post_graduate_qualifications,Industry,03_Services Industry Group,2023,11000,R,Number of employees,14 and 28,8.5,Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Industry,02_Manufacturing Industry Group,2023,154,R,NZ Dollars (millions),12 and 15 and 17 and 28,13.6,Industry
+_22a_Personnel_by_Occupation:_FTE:_Researcher_Employees,Sector,01_Business Sector,2023,13000,R,Number of employees,1 and 14 and 28,6.6,Sector
+_01_Total_RD_Expenditure,Published_Industry,13_Other services,2022,643,R,NZ Dollars (millions),4 and 12,15.4,Published_Industry
+_12b_Purpose_of_research:_Manufacturing,Published_Industry,02_Food_Manufacturing,2022,78,R,NZ Dollars (millions),12 and 15 and 28,11.2,Published_Industry
+_24_Personnel_by_Occupation:_FTE:_Other_supporting_staff,ANZSIC_1_Digit,C_Manufacturing,2022,550,R,Number of employees,14 and 28,13.1,ANZSIC_1_Digit
+_31_Personnel_by_Qualification:_Headcount:_Total,Industry,02_Manufacturing Industry Group,2023,7500,R,Number of employees,14 and 28,6.6,Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,10_Wholesale trade,2022,164,R,NZ Dollars (millions),12 and 28,12.3,Published_Industry
+_22_Personnel_by_Occupation:_FTE:_Researcher_Total,Published_Industry,02_Food_Manufacturing,2023,450,R,Number of employees,14 and 28,17.1,Published_Industry
+_54_Funding_of_RD_undertaken_externally_by_the:_Overseas_Sector,Sector,01_Business Sector,2023,202,R,NZ Dollars (millions),1 and 7 and 9 and 28,31.2,Sector
+_14b_Purpose_of_research:_Environment,Size,06_100 or more employees,2022,548,R,NZ Dollars (millions),5 and 12 and 15 and 28,1.4,Size
+_22a_Personnel_by_Occupation:_FTE:_Researcher_Employees,Published_Industry,02_Food_Manufacturing,2023,450,R,Number of employees,14 and 28,17.1,Published_Industry
+_12b_Purpose_of_research:_Manufacturing,Published_Industry,10_Wholesale trade,2023,58,R,NZ Dollars (millions),12 and 15 and 28,14.5,Published_Industry
+_07a_Source_of_Funds:_New_Zealand_Government_Public_sector:_NZ_central_government_funding_agencies,Sector,01_Business Sector,2023,211,R,NZ Dollars (millions),1 and 12 and 28,14.4,Sector
+_09_Source_of_Funds:_Overseas,Published_Industry,11_Scientific research and technical services,2023,117,R,NZ Dollars (millions),12 and 28,22.2,Published_Industry
+_12e_Purpose_of_research:_Commercial_services_and_tourism,Size,06_100 or more employees,2022,282,R,NZ Dollars (millions),5 and 12 and 15 and 28,17.1,Size
+_37_Personnel_by_Qualification:_FTE:_Total,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,13000,R,Number of employees,14 and 28,7.1,ANZSIC_1_Digit
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Industry,03_Services Industry Group,2022,403,R,NZ Dollars (millions),7 and 9,68.8,Industry
+_01_Total_RD_Expenditure,Published_Industry,07_Metal product manufacturing,2023,102,R,NZ Dollars (millions),12,15.4,Published_Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Industry,03_Services Industry Group,2022,1653,R,NZ Dollars (millions),12 and 28,9.1,Industry
+_34_Personnel_by_Qualification:_FTE:_Bachelor_degrees_or_equivalent_and_post_graduate_qualifications,Published_Industry,12_Computer services,2022,6200,R,Number of employees,14 and 28,12.5,Published_Industry
+_25_Personnel_by_Occupation:_FTE:_Total,Industry,02_Manufacturing Industry Group,2023,5400,R,Number of employees,14 and 28,6.2,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Size,06_100 or more employees,2022,2036,R,NZ Dollars (millions),5 and 12 and 28,3.7,Size
+_12d_Purpose_of_research:_Information_and_communication_services,Published_Industry,12_Computer services,2022,373,R,NZ Dollars (millions),12 and 15 and 28,25.9,Published_Industry
+_13_Broad_purpose_of_research:_Society,Size,06_100 or more employees,2022,878,R,NZ Dollars (millions),5 and 12 and 15 and 19 and 28,4.9,Size
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,12_Computer services,2023,818,R,NZ Dollars (millions),12 and 28,15.1,Published_Industry
+_11a_Purpose_of_research:_Primary:_Total,Sector,01_Business Sector,2023,540,R,NZ Dollars (millions),1 and 12 and 15 and 28,14.6,Sector
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,07_Metal product manufacturing,2023,97,R,NZ Dollars (millions),12 and 15 and 18 and 28,16.2,Published_Industry
+_12e_Purpose_of_research:_Commercial_services_and_tourism,Sector,01_Business Sector,2023,373,R,NZ Dollars (millions),1 and 12 and 15 and 28,16.7,Sector
+_18_Personnel_by_Occupation:_Headcount:_Researcher_Total,Published_Industry,02_Food_Manufacturing,2023,560,R,Number of employees,14 and 28,15,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Sector,01_Business Sector,2023,2176,R,NZ Dollars (millions),1 and 12 and 15 and 18 and 28,9.1,Sector
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Total,Total,2022,1818,R,NZ Dollars (millions),12 and 28,3.7,Total
+_34_Personnel_by_Qualification:_FTE:_Bachelor_degrees_or_equivalent_and_post_graduate_qualifications,Published_Industry,02_Food_Manufacturing,2022,490,R,Number of employees,14 and 28,13.1,Published_Industry
+_01_Total_RD_Expenditure,Industry,03_Services Industry Group,2022,2218,R,NZ Dollars (millions),12,7.5,Industry
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,Sector,01_Business Sector,2022,213,R,NZ Dollars (millions),1 and 12 and 28,20,Sector
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,Total,Total,2022,323,R,NZ Dollars (millions),12 and 28,13.2,Total
+_09a_Source_of_Funds:_Overseas:_Overseas_organisation_in_the_same_group,Industry,03_Services Industry Group,2023,368,R,NZ Dollars (millions),12 and 28,14.4,Industry
+_09a_Source_of_Funds:_Overseas:_Overseas_organisation_in_the_same_group,Sector,01_Business Sector,2023,402,R,NZ Dollars (millions),1 and 12 and 28,13.6,Sector
+_12e_Purpose_of_research:_Commercial_services_and_tourism,Industry,03_Services Industry Group,2023,365,R,NZ Dollars (millions),12 and 15 and 28,16.9,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Industry,02_Manufacturing Industry Group,2022,481,R,NZ Dollars (millions),12 and 28,6,Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,11_Scientific research and technical services,2022,157,R,NZ Dollars (millions),12 and 28,18.6,Published_Industry
+_11ai_Purpose_of_research:_Primary:_Plant_production_and_plant_primary_products,Sector,01_Business Sector,2022,208,R,NZ Dollars (millions),1 and 12 and 15 and 28,21.4,Sector
+_17_Type_of_research:_Experimental,Published_Industry,10_Wholesale trade,2022,125,R,NZ Dollars (millions),12 and 26 and 28,11.6,Published_Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,ANZSIC_1_Digit,Q_Health Care and Social Assistance,2022,27,R,NZ Dollars (millions),12 and 28,25.5,ANZSIC_1_Digit
+_26_Personnel_by_Qualification:_Headcount:_PhD,Published_Industry,02_Food_Manufacturing,2022,100,R,Number of employees,14 and 28,20.4,Published_Industry
+_01_Total_RD_Expenditure,Industry,03_Services Industry Group,2023,2548,R,NZ Dollars (millions),12,8.9,Industry
+_11a_Purpose_of_research:_Primary:_Total,Size,06_100 or more employees,2022,529,R,NZ Dollars (millions),5 and 12 and 15 and 28,6.2,Size
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Published_Industry,07_Metal product manufacturing,2023,10,R,NZ Dollars (millions),12 and 15 and 28,36.1,Published_Industry
+_13b_Purpose_of_research:_Education_and_training,Size,06_100 or more employees,2022,120,R,NZ Dollars (millions),5 and 12 and 15 and 28,3.6,Size
+_17_Type_of_research:_Experimental,ANZSIC_1_Digit,C_Manufacturing,2022,485,R,NZ Dollars (millions),12 and 26 and 28,8,ANZSIC_1_Digit
+_31_Personnel_by_Qualification:_Headcount:_Total,ANZSIC_1_Digit,C_Manufacturing,2022,7000,R,Number of employees,14 and 28,7.5,ANZSIC_1_Digit
+_17_Type_of_research:_Experimental,Published_Industry,13_Other services,2023,486,R,NZ Dollars (millions),4 and 12 and 26 and 28,30.8,Published_Industry
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,Sector,01_Business Sector,2023,307,R,NZ Dollars (millions),1 and 12 and 28,27.4,Sector
+_34_Personnel_by_Qualification:_FTE:_Bachelor_degrees_or_equivalent_and_post_graduate_qualifications,Industry,03_Services Industry Group,2022,11000,R,Number of employees,14 and 28,8.8,Industry
+_11ai_Purpose_of_research:_Primary:_Plant_production_and_plant_primary_products,Published_Industry,01_Primary,2023,59,R,NZ Dollars (millions),12 and 15 and 28,89.6,Published_Industry
+_13_Broad_purpose_of_research:_Society,ANZSIC_1_Digit,Q_Health Care and Social Assistance,2022,63,R,NZ Dollars (millions),12 and 15 and 19 and 28,19.7,ANZSIC_1_Digit
+_25_Personnel_by_Occupation:_FTE:_Total,Industry,03_Services Industry Group,2022,14000,R,Number of employees,14 and 28,7.9,Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,09_Other manufacturing,2023,24,R,NZ Dollars (millions),12 and 28,18.3,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Published_Industry,02_Food_Manufacturing,2023,69,R,NZ Dollars (millions),12 and 15 and 17 and 28,21.1,Published_Industry
+_12b_Purpose_of_research:_Manufacturing,Published_Industry,08_Machinery and equipment manufacturing,2022,143,R,NZ Dollars (millions),12 and 15 and 28,16,Published_Industry
+_21_Personnel_by_Occupation:_Headcount:_Total,ANZSIC_1_Digit,C_Manufacturing,2022,6900,R,Number of employees,14 and 28,7.3,ANZSIC_1_Digit
+_23_Personnel_by_Occupation:_FTE:_Technician,Published_Industry,12_Computer services,2022,2800,R,Number of employees,14 and 28,16.2,Published_Industry
+_34_Personnel_by_Qualification:_FTE:_Bachelor_degrees_or_equivalent_and_post_graduate_qualifications,Published_Industry,02_Food_Manufacturing,2023,490,R,Number of employees,14 and 28,16.9,Published_Industry
+_35_Personnel_by_Qualification:_FTE:_Technical_and_trade_qualifications,Industry,02_Manufacturing Industry Group,2023,700,R,Number of employees,14 and 28,10.4,Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,13_Other services,2022,526,R,NZ Dollars (millions),4 and 12 and 28,18.4,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Size,05_50 to 99 employees,2022,212,R,NZ Dollars (millions),5 and 12 and 15 and 18 and 28,21.7,Size
+_16_Type_of_research:_Applied,Industry,02_Manufacturing Industry Group,2022,292,R,NZ Dollars (millions),12 and 25 and 28,6.9,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Published_Industry,08_Machinery and equipment manufacturing,2022,305,R,NZ Dollars (millions),12 and 28,8.4,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Industry,02_Manufacturing Industry Group,2022,151,R,NZ Dollars (millions),12 and 15 and 17 and 28,17.4,Industry
+_18_Personnel_by_Occupation:_Headcount:_Researcher_Total,Published_Industry,12_Computer services,2023,5500,R,Number of employees,14 and 28,11.6,Published_Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Industry,03_Services Industry Group,2023,777,R,NZ Dollars (millions),12 and 28,12,Industry
+_12b_Purpose_of_research:_Manufacturing,Industry,03_Services Industry Group,2022,230,R,NZ Dollars (millions),12 and 15 and 28,17.9,Industry
+_12cii_Purpose_of_research:_Transport,Size,06_100 or more employees,2022,97,R,NZ Dollars (millions),5 and 12 and 15 and 28,13.4,Size
+_17_Type_of_research:_Experimental,Total,Total,2022,2060,R,NZ Dollars (millions),12 and 26 and 28,6.5,Total
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Industry,03_Services Industry Group,2023,1519,R,NZ Dollars (millions),12 and 28,9.5,Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,13_Other services,2023,697,R,NZ Dollars (millions),4 and 12 and 28,23.4,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,02_Food_Manufacturing,2022,79,R,NZ Dollars (millions),12 and 15 and 18 and 28,11,Published_Industry
+_17_Type_of_research:_Experimental,Size,05_50 to 99 employees,2022,205,R,NZ Dollars (millions),5 and 12 and 26 and 28,22.3,Size
+_31_Personnel_by_Qualification:_Headcount:_Total,Published_Industry,12_Computer services,2022,9000,R,Number of employees,14 and 28,11.2,Published_Industry
+_12ci_Purpose_of_research:_Construction,Sector,01_Business Sector,2022,149,R,NZ Dollars (millions),1 and 12 and 15 and 28,13.2,Sector
+_12d_Purpose_of_research:_Information_and_communication_services,Sector,01_Business Sector,2023,663,R,NZ Dollars (millions),1 and 12 and 15 and 28,22,Sector
+_16_Type_of_research:_Applied,Industry,03_Services Industry Group,2023,955,R,NZ Dollars (millions),12 and 25 and 28,10.5,Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Sector,01_Business Sector,2023,272,R,NZ Dollars (millions),1 and 12 and 15 and 28,11.2,Sector
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,ANZSIC_1_Digit,F_Wholesale Trade,2022,102,R,NZ Dollars (millions),12 and 15 and 18 and 28,13.2,ANZSIC_1_Digit
+_01_Total_RD_Expenditure,Size,05_50 to 99 employees,2022,354,R,NZ Dollars (millions),5 and 12,17,Size
+_11_Broad_purpose_of_research:_Primary_Industries,Size,06_100 or more employees,2022,529,R,NZ Dollars (millions),5 and 12 and 15 and 17 and 28,6.2,Size
+_12e_Purpose_of_research:_Commercial_services_and_tourism,Sector,01_Business Sector,2022,346,R,NZ Dollars (millions),1 and 12 and 15 and 28,15.7,Sector
+_31_Personnel_by_Qualification:_Headcount:_Total,Sector,01_Business Sector,2023,30000,R,Number of employees,1 and 14 and 28,5.8,Sector
+_51_Funding_of_RD_undertaken_externally_by_the:_Private_Sector,Industry,02_Manufacturing Industry Group,2022,12,R,NZ Dollars (millions),7 and 9 and 28,81.1,Industry
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,Published_Industry,10_Wholesale trade,2022,16,R,NZ Dollars (millions),12 and 28,13.3,Published_Industry
+_12b_Purpose_of_research:_Manufacturing,Sector,01_Business Sector,2023,569,R,NZ Dollars (millions),1 and 12 and 15 and 28,8.2,Sector
+_35_Personnel_by_Qualification:_FTE:_Technical_and_trade_qualifications,ANZSIC_1_Digit,C_Manufacturing,2022,660,R,Number of employees,14 and 28,9.9,ANZSIC_1_Digit
+_01_Total_RD_Expenditure,Published_Industry,02_Food_Manufacturing,2023,153,R,NZ Dollars (millions),12,14,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,1182,R,NZ Dollars (millions),12 and 15 and 18 and 28,9.7,ANZSIC_1_Digit
+_17_Type_of_research:_Experimental,Industry,03_Services Industry Group,2023,1364,R,NZ Dollars (millions),12 and 26 and 28,12.9,Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Industry,03_Services Industry Group,2022,1466,R,NZ Dollars (millions),12 and 28,8,Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,Published_Industry,08_Machinery and equipment manufacturing,2022,479,R,NZ Dollars (millions),12 and 28,8.3,Published_Industry
+_14c_Purpose_of_research:_Other,Size,06_100 or more employees,2022,132,R,NZ Dollars (millions),5 and 12 and 15 and 16 and 28,20.4,Size
+_21_Personnel_by_Occupation:_Headcount:_Total,Industry,02_Manufacturing Industry Group,2023,7500,R,Number of employees,14 and 28,6.6,Industry
+_01_Total_RD_Expenditure,Published_Industry,01_Primary,2022,89,R,NZ Dollars (millions),12,42.8,Published_Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Industry,02_Manufacturing Industry Group,2022,306,R,NZ Dollars (millions),12 and 28,8.2,Industry
+_16_Type_of_research:_Applied,Published_Industry,10_Wholesale trade,2023,79,R,NZ Dollars (millions),12 and 25 and 28,16.9,Published_Industry
+_31_Personnel_by_Qualification:_Headcount:_Total,Industry,03_Services Industry Group,2023,21000,R,Number of employees,14 and 28,7.7,Industry
+_07a_Source_of_Funds:_New_Zealand_Government_Public_sector:_NZ_central_government_funding_agencies,Industry,03_Services Industry Group,2022,170,R,NZ Dollars (millions),12 and 28,14.6,Industry
+_01_Total_RD_Expenditure,ANZSIC_1_Digit,"M_Professional, Scientific and Technical Services",2022,2325,R,NZ Dollars (millions),12,5.7,ANZSIC_1_Digit
+_19_Personnel_by_Occupation:_Headcount:_Technician,Published_Industry,12_Computer services,2022,3600,R,Number of employees,14 and 28,15,Published_Industry
+_36_Personnel_by_Qualification:_FTE:_Other_qualifications,ANZSIC_1_Digit,C_Manufacturing,2022,620,R,Number of employees,14 and 28,9.4,ANZSIC_1_Digit
+_12b_Purpose_of_research:_Manufacturing,Industry,02_Manufacturing Industry Group,2023,373,R,NZ Dollars (millions),12 and 15 and 28,9.2,Industry
+_11ai_Purpose_of_research:_Primary:_Plant_production_and_plant_primary_products,Industry,03_Services Industry Group,2023,123,R,NZ Dollars (millions),12 and 15 and 28,24.8,Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Industry,02_Manufacturing Industry Group,2023,300,R,NZ Dollars (millions),12 and 28,7.8,Industry
+_06_Source_of_Funds:_New_Zealand_Private_sector,ANZSIC_1_Digit,F_Wholesale Trade,2022,164,R,NZ Dollars (millions),12 and 28,12.3,ANZSIC_1_Digit
+_17_Type_of_research:_Experimental,Published_Industry,11_Scientific research and technical services,2023,226,R,NZ Dollars (millions),12 and 26 and 28,10.6,Published_Industry
+_12d_Purpose_of_research:_Information_and_communication_services,Size,06_100 or more employees,2022,346,R,NZ Dollars (millions),5 and 12 and 15 and 28,24.6,Size
+_18a_Personnel_by_Occupation:_Headcount:_Researcher_Employees,Published_Industry,02_Food_Manufacturing,2023,550,R,Number of employees,14 and 28,15,Published_Industry
+_18a_Personnel_by_Occupation:_Headcount:_Researcher_Employees,Published_Industry,10_Wholesale trade,2023,890,R,Number of employees,14 and 28,9.5,Published_Industry
+_01_Total_RD_Expenditure,ANZSIC_1_Digit,F_Wholesale Trade,2022,192,R,NZ Dollars (millions),12,10.5,ANZSIC_1_Digit
+_07_Source_of_Funds:_New_Zealand_Government_Public_sector:_Total,Sector,01_Business Sector,2022,262,R,NZ Dollars (millions),1 and 12 and 21 and 28,11.8,Sector
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Published_Industry,13_Other services,2023,61,R,NZ Dollars (millions),4 and 12 and 15 and 28,19.2,Published_Industry
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Sector,01_Business Sector,2022,1979,R,NZ Dollars (millions),1 and 12 and 15 and 18 and 28,7.6,Sector
+_17_Type_of_research:_Experimental,Published_Industry,08_Machinery and equipment manufacturing,2023,374,R,NZ Dollars (millions),12 and 26 and 28,9.2,Published_Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Published_Industry,12_Computer services,2023,240,R,NZ Dollars (millions),7 and 9,116,Published_Industry
+_15_Type_of_research:_Basic:_Total,Industry,03_Services Industry Group,2023,222,R,NZ Dollars (millions),12 and 22 and 28,16.4,Industry
+_11aii_Purpose_of_research:_Primary:_Animal_production_and_animal_primary_products,Total,Total,2022,327,R,NZ Dollars (millions),12 and 15 and 28,8.2,Total
+_12_Broad_purpose_of_research:_Industrial_and_infrastructure_development,Published_Industry,"04_Textiles, clothing, footwear, and leather manufacturing",2022,7,R,NZ Dollars (millions),3 and 12 and 15 and 18 and 28,24.1,Published_Industry
+_18a_Personnel_by_Occupation:_Headcount:_Researcher_Employees,Published_Industry,12_Computer services,2023,5600,R,Number of employees,14 and 28,11.6,Published_Industry
+_11_Broad_purpose_of_research:_Primary_Industries,Published_Industry,11_Scientific research and technical services,2023,82,R,NZ Dollars (millions),12 and 15 and 17 and 28,34.2,Published_Industry
+_14_Broad_purpose_of_research:_Other,Industry,03_Services Industry Group,2022,241,R,NZ Dollars (millions),12 and 15 and 20 and 28,15.4,Industry
+_36_Personnel_by_Qualification:_FTE:_Other_qualifications,Published_Industry,02_Food_Manufacturing,2023,110,R,Number of employees,14 and 28,26.2,Published_Industry
+_03a_Current_and_Capital_Expenditure:_Capital_Expenditure:_Land_and_Buildings,Sector,01_Business Sector,2023,25,R,NZ Dollars (millions),1 and 12 and 28,49.6,Sector
+_03b_Current_and_Capital_Expenditure:_Capital_Expenditure:_Plant_and_equipment_and_machinery_and_vehicles_and_captialised_software_and_other_assets,Industry,03_Services Industry Group,2022,127,R,NZ Dollars (millions),12 and 28,31.2,Industry
+_12cii_Purpose_of_research:_Transport,Published_Industry,08_Machinery and equipment manufacturing,2022,55,R,NZ Dollars (millions),12 and 15 and 28,23.7,Published_Industry
+_13a_Purpose_of_research:_Health,Industry,03_Services Industry Group,2022,172,R,NZ Dollars (millions),12 and 15 and 28,18.2,Industry
+_26_Personnel_by_Qualification:_Headcount:_PhD,Industry,02_Manufacturing Industry Group,2022,420,R,Number of employees,14 and 28,11.7,Industry
+_31_Personnel_by_Qualification:_Headcount:_Total,Industry,02_Manufacturing Industry Group,2022,7000,R,Number of employees,14 and 28,7.5,Industry
+_12d_Purpose_of_research:_Information_and_communication_services,Sector,01_Business Sector,2022,640,R,NZ Dollars (millions),1 and 12 and 15 and 28,18.7,Sector
+_16_Type_of_research:_Applied,Published_Industry,07_Metal product manufacturing,2022,28,R,NZ Dollars (millions),12 and 25 and 28,16.7,Published_Industry
+_32_Personnel_by_Qualification:_FTE:_PhD,Industry,02_Manufacturing Industry Group,2023,390,R,Number of employees,14 and 28,11.1,Industry
+_09_Source_of_Funds:_Overseas,Size,06_100 or more employees,2022,268,R,NZ Dollars (millions),5 and 12 and 28,16.2,Size
+_12a_Purpose_of_research:_Energy,Sector,01_Business Sector,2023,214,R,NZ Dollars (millions),1 and 12 and 15 and 28,51.5,Sector
+_12c_Purpose_of_research:_Construction_and_transport:_Total,Total,Total,2022,352,R,NZ Dollars (millions),12 and 15 and 28,9,Total
+_25_Personnel_by_Occupation:_FTE:_Total,Published_Industry,02_Food_Manufacturing,2022,750,R,Number of employees,14 and 28,11.2,Published_Industry
+_37_Personnel_by_Qualification:_FTE:_Total,Published_Industry,12_Computer services,2023,7000,R,Number of employees,14 and 28,12,Published_Industry
+_09_Source_of_Funds:_Overseas,Published_Industry,12_Computer services,2022,212,R,NZ Dollars (millions),12 and 28,28.1,Published_Industry
+_17_Type_of_research:_Experimental,Industry,02_Manufacturing Industry Group,2023,574,R,NZ Dollars (millions),12 and 26 and 28,6.9,Industry
+_25_Personnel_by_Occupation:_FTE:_Total,Industry,03_Services Industry Group,2023,14000,R,Number of employees,14 and 28,7.8,Industry
+_37_Personnel_by_Qualification:_FTE:_Total,Published_Industry,02_Food_Manufacturing,2022,760,R,Number of employees,14 and 28,11.2,Published_Industry
+_02_Current_and_Capital_Expenditure:_Wages_and_Salaries,Sector,01_Business Sector,2022,1983,R,NZ Dollars (millions),1 and 12 and 28,6.2,Sector
+_14c_Purpose_of_research:_Other,Total,Total,2022,228,R,NZ Dollars (millions),12 and 15 and 16 and 28,17,Total
+_01_Total_RD_Expenditure,Published_Industry,11_Scientific research and technical services,2023,382,R,NZ Dollars (millions),12,12.6,Published_Industry
+_17_Type_of_research:_Experimental,Industry,03_Services Industry Group,2022,1187,R,NZ Dollars (millions),12 and 26 and 28,10.5,Industry
+_23_Personnel_by_Occupation:_FTE:_Technician,Published_Industry,02_Food_Manufacturing,2023,200,R,Number of employees,14 and 28,16.1,Published_Industry
+_22_Personnel_by_Occupation:_FTE:_Researcher_Total,Published_Industry,02_Food_Manufacturing,2022,420,R,Number of employees,14 and 28,11.7,Published_Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Published_Industry,11_Scientific research and technical services,2023,26,R,NZ Dollars (millions),7 and 9,82.1,Published_Industry
+_04_Current_and_Capital_Expenditure:_Other_current_expenditure,Published_Industry,10_Wholesale trade,2023,81,R,NZ Dollars (millions),12 and 28,16.3,Published_Industry
+_31_Personnel_by_Qualification:_Headcount:_Total,Industry,03_Services Industry Group,2022,22000,R,Number of employees,14 and 28,7.6,Industry
+_56_Funding_of_RD_undertaken_externally_by:_All_sectors,Sector,01_Business Sector,2023,459,R,NZ Dollars (millions),1 and 7 and 9,63.2,Sector
+_09a_Source_of_Funds:_Overseas:_Overseas_organisation_in_the_same_group,Industry,03_Services Industry Group,2022,296,R,NZ Dollars (millions),12 and 28,19.7,Industry
+_12cii_Purpose_of_research:_Transport,Sector,01_Business Sector,2023,173,R,NZ Dollars (millions),1 and 12 and 15 and 28,14.9,Sector
+_36_Personnel_by_Qualification:_FTE:_Other_qualifications,Published_Industry,02_Food_Manufacturing,2022,120,R,Number of employees,14 and 28,21,Published_Industry
+_13a_Purpose_of_research:_Health,ANZSIC_1_Digit,Q_Health Care and Social Assistance,2022,59,R,NZ Dollars (millions),12 and 15 and 28,19.7,ANZSIC_1_Digit
+_28_Personnel_by_Qualification:_Headcount:_Bachelor_degrees_or_equivalent,Published_Industry,12_Computer services,2022,7600,R,Number of employees,14 and 28,10.9,Published_Industry
+_92_Business_Sector_RD_Expenditure_as_a_proportion_of_GDP,Country,New Zealand,2022,0.89,R,Percentage of GDP,1 and 12 and 32,..,Country
+_92_Business_Sector_RD_Expenditure_as_a_proportion_of_GDP,Country,New Zealand,2020,0.84,R,Percentage of GDP,1 and 12 and 32,..,Country
+_95_Total_RD_Expenditure_as_a_proportion_of_GDP,Country,New Zealand,2020,1.46,R,Percentage of GDP,12 and 32,..,Country
+_95_Total_RD_Expenditure_as_a_proportion_of_GDP,Country,New Zealand,2022,1.49,R,Percentage of GDP,12 and 32,..,Country
